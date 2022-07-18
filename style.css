@@ -106,10 +106,7 @@
     display: grid;
     grid-template-columns: 0.3fr 0.2fr;
 }
-.gen_back{
-    width: 500%;
-    background-color: #060d17;
-}
+
 .gen_back:hover{
     background-color: #060d17;
 }
@@ -150,6 +147,10 @@
     .card_img{
         height: 280px;
     }
+    .gen_back{
+        width: 500%;
+        background-color: #060d17;
+    }
     
 }
 @media(max-width:990px){
@@ -185,5 +186,9 @@
     }
     .card_img{
         height: 280px;
+    }
+    .gen_back{
+        width: 290%;
+        background-color: #060d17;
     }
 }

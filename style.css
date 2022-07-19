@@ -129,6 +129,14 @@
         position: absolute;
         display: flex;
     }
+footer{
+        padding: 1rem;
+    }
+    footer a{
+        text-decoration: none;
+        color: #afafb0;
+        cursor: pointer;
+    }
 /*  */
 @media (min-width: 992px) { 
     .head1{

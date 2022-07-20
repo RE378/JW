@@ -159,6 +159,10 @@ footer{
         width: 500%;
         background-color: #060d17;
     }
+    .gen_back1{
+        width: 400%;
+        background-color: #060d17;
+    }
     
 }
 @media(max-width:990px){
@@ -197,6 +201,10 @@ footer{
     }
     .gen_back{
         width: 290%;
+        background-color: #060d17;
+    }
+    .gen_back1{
+        width: 200%;
         background-color: #060d17;
     }
 }
